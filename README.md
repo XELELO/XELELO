@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @XELELO
 - 👀 I’m interested in technology
 - 🌱 I’m currently learning Software engeneering
-- 💞️ I’m looking to collaborate on activities amd projects
+- 💞️ I’m looking to collaborate on activities and projects
 - 📫 How to reach me ...Email yamkelaxelelo@gmail.com
 
 <!---
